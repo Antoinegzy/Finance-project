@@ -1,6 +1,8 @@
 You can find on this page some of my personnal projects on python related to finance and economics ! (In progress)
 
 - Option Pricing and volatility
+          1 - European Option Pricing
+          2 - Volatility smile
 
 - Scraping project :   
         1 - example of expected output (trading economics) :  you can see here an example of the visual expected output as usable economic calendar)   
